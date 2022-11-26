@@ -2,8 +2,8 @@ FROM openjdk
 
 WORKDIR  /application 
 
-COPY JavaApplication3.java .
+COPY sfsf.java .
 
-RUN javac JavaApplication3.java 
+RUN javac sfsf.java 
 
-CMD java JavaApplication3
+CMD java sfsf
