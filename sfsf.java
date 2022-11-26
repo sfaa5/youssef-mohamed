@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication3;
+package sfsf;
 
 /**
  *
  * @author youssef
  */
-public class JavaApplication3 {
+public class sfsf {
 
     /**
      * @param args the command line arguments
